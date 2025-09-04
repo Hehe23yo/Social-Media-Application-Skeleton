@@ -1,4 +1,4 @@
-#Social Media Application
+# Social Media Application
 
 This is a Java project of replicating a skeleton of a social media application, with the ability to create posts and add comments to individual posts, all mapped to individual multiple users.
 This project was made using j2ee and h2 database.
